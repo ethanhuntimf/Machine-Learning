@@ -42,7 +42,7 @@ print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(y_tes
 Support Vector Machine
 --------
 **Refer to Udacity: Intro to Machine Learning and for code and understanding refer link below**
-**https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/**
+* **https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/**
 
 Code Example:
 ```python
