@@ -1,10 +1,10 @@
-# Machine-Learning 💻🚀
+Machine-Learning 💻🚀
 My Machine Learning Resources
 ===============================
 
 Contents
 --------
-**[`Numbers`](#numbers)__,__[`Strings`](#strings)__,__[`Boolean`](#boolean)__,__[`Lists`](#lists)__,__[`Dictionaries`](#dictionaries)__,__ [`Tuples`](#tuples)__,__[`Sets`](#sets)__,__[`None`](#none)**  
+**[`Naive Bayes`](#naive-bayes)__,__[`Strings`](#strings)__,__[`Boolean`](#boolean)__,__[`Lists`](#lists)__,__[`Dictionaries`](#dictionaries)__,__ [`Tuples`](#tuples)__,__[`Sets`](#sets)__,__[`None`](#none)**  
 
 Naive Bayes
 Refer to Udacity: Intro to Machine Learning
