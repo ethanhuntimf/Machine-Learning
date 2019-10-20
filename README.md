@@ -6,13 +6,13 @@ Contents
 --------
 **[`Naive Bayes`](#naive-bayes)__,__[`Strings`](#strings)__,__[`Boolean`](#boolean)__,__[`Lists`](#lists)__,__[`Dictionaries`](#dictionaries)__,__ [`Tuples`](#tuples)__,__[`Sets`](#sets)__,__[`None`](#none)**  
 
-Naive Bayes
+#Naive Bayes
 Refer to Udacity: Intro to Machine Learning
 for code and understanding refer link below
 https://www.geeksforgeeks.org/naive-bayes-classifiers/
 
 example:
-```
+```python
 # load the iris dataset 
 from sklearn.datasets import load_iris 
 iris = load_iris() 
