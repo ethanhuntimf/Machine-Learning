@@ -13,6 +13,7 @@ https://www.geeksforgeeks.org/naive-bayes-classifiers/
 example:
 ```python
 # load the iris dataset 
+# the Iris dataset will generate data to play with
 from sklearn.datasets import load_iris 
 iris = load_iris() 
   
@@ -20,7 +21,8 @@ iris = load_iris()
 X = iris.data 
 y = iris.target 
   
-# splitting X and y into training and testing sets 
+# splitting X and y into training and testing sets
+# train_test_split generates test data and training data
 from sklearn.model_selection import train_test_split 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=1) 
   
