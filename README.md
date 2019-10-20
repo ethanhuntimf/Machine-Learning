@@ -41,3 +41,15 @@ print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(y_tes
 
 Support Vector Machine
 --------
+**Refer to Udacity: Intro to Machine Learning and for code and understanding refer link below**
+https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/
+
+Code Example:
+```python
+# import support vector classifier 
+from sklearn.svm import SVC # "Support Vector Classifier" 
+clf = SVC(kernel='linear') 
+  
+# fitting x samples and y classes 
+clf.fit(x, y)
+```
