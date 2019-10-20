@@ -7,8 +7,7 @@ Contents
 
 Naive Bayes
 --------
-**Refer to Udacity: Intro to Machine Learning**
-**For code and understanding refer link below**
+**Refer to Udacity: Intro to Machine Learning and for code and understanding refer link below**
 https://www.geeksforgeeks.org/naive-bayes-classifiers/
 
 example:
