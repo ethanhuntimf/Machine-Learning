@@ -3,7 +3,7 @@ Machine-Learning Resources 💻🚀
 
 Contents
 --------
-**[`Naive Bayes`](#naive-bayes)__,__[`Strings`](#strings)__,__[`Boolean`](#boolean)__,__[`Lists`](#lists)__,__[`Dictionaries`](#dictionaries)__,__ [`Tuples`](#tuples)__,__[`Sets`](#sets)__,__[`None`](#none)**  
+**[`Naive Bayes`](#naive-bayes)__,__[`Support Vector Machine`](#support-vector-machine)__,__[`Boolean`](#boolean)__,__[`Lists`](#lists)__,__[`Dictionaries`](#dictionaries)__,__ [`Tuples`](#tuples)__,__[`Sets`](#sets)__,__[`None`](#none)**  
 
 Naive Bayes
 --------
@@ -36,3 +36,6 @@ y_pred = gnb.predict(X_test)
 from sklearn import metrics 
 print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(y_test, y_pred)*100)
 ```
+
+Support Vector Machine
+--------
