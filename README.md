@@ -7,6 +7,7 @@ for code and understanding refer link below
 https://www.geeksforgeeks.org/naive-bayes-classifiers/
 
 example:
+```
 # load the iris dataset 
 from sklearn.datasets import load_iris 
 iris = load_iris() 
@@ -30,3 +31,4 @@ y_pred = gnb.predict(X_test)
 # comparing actual response values (y_test) with predicted response values (y_pred) 
 from sklearn import metrics 
 print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(y_test, y_pred)*100)
+```
